@@ -18,4 +18,4 @@ The project includes:
 - Performing operations on tables, statistics
 - More than 30 requests related to database
 
-Data stored in _.csv_ files in this [folder]()
+Data stored in _.csv_ files in this [folder](https://github.com/cincosa/university_project/tree/main/database)
