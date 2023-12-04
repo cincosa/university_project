@@ -5,7 +5,7 @@
 
 Technology used: _PostgreSQL_
 
-### Abstract
+## Abstract
 
 
 The foundation of this project involves creating a straightforward relational database that encapsulates information about a university and its students. 
@@ -22,7 +22,7 @@ The project includes:
 
 Data stored in _.csv_ files in this [folder](https://github.com/cincosa/university_project/tree/main/database)
 
-### Creating tables
+## Creating tables
 
 
 The process of creating tables was performed using PostgreSQL and stored in file [tables.sql](https://github.com/cincosa/university_project/blob/main/tables.sql). Tables:
