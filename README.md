@@ -53,3 +53,6 @@ The process of creating tables was performed using PostgreSQL and stored in file
 
 
 ## [Requests](https://github.com/cincosa/university_project/blob/main/requests.sql)
+
+## Summary 
+The project was undertaken with the aim of practicing and enhancing SQL skills.
